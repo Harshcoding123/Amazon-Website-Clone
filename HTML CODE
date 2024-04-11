@@ -1,0 +1,282 @@
+<html>
+<head>
+    <link
+    href="https://cdn.jsdelivr.net/npm/remixicon@4.2.0/fonts/remixicon.css"
+    rel="stylesheet"
+/>
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <div id="main">
+        
+        <div id="header">
+            <div class="d" id="d1">
+                <img src="https://www.shutterstock.com/shutterstock/photos/2409861319/display_1500/stock-vector-amazon-logo-icon-logo-sign-art-design-symbol-famous-industry-jeff-bezos-corporate-app-text-isolated-2409861319.jpg">
+            </div>
+            <div class="d" id="d2">
+                <div style="color: white;" id="icon"> <i class="ri-map-pin-line"></i></div>
+                
+                <div id="add">
+                    <P style="font-size: smaller;color: white;">Delivering to Bhopal 464993</P>
+                    <p style="font-weight: bold;color: white;">Update location</p>
+                </div>
+            </div>
+            <div  class="d" id="d3">
+                <div id="s1"><p>All</p>
+                    <P><i class="ri-arrow-down-s-fill"></i></P></div>
+                <div id="s2"><P style="margin-left: 5px;color: grey;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">Search Amazon.in</P></div>
+                <div id="s3"><i class="ri-search-line"></i></div>
+            </div>
+
+            <div class="d" id="d4">
+                <div id="lan">ENG</div>
+                <div id="arrow"><i class="ri-arrow-down-s-fill"></i></div>
+            </div>
+            <div class="d" id="d5">
+                <p style="margin-top: 10px;">Hello,sign in</p>
+                <div id="aa">
+                <P style="margin-left: -30px;">Account & List</P><i class="ri-arrow-down-s-fill"></i>
+            </div>
+            </div>
+            <div class="d" id="d6">
+                <p>Returns</p>
+                <p style="font-weight: bold;">& Orders</p>
+
+            </div>
+            <div class="d" id="d7">
+                <div id="icon" style="font-size: xx-large;color: white;"><i class="ri-shopping-cart-line"></i></div>
+                <div id="cart" style="font-weight: bold;color: white;margin-left: 7px;margin-top: 10px;">    Cart</div>
+            </div>
+        </div>
+        <div id="fakeheader"></div>
+        <div id="strip">
+            <div id="sd1">
+                <div id="sicon"><i class="ri-align-justify"></i></div>
+                <p>ALL</p>
+            </div>
+            <div id="sd2">Amazon MiniTV</div>
+            <div id="sd3">Sell</div>
+            <div id="sd4">Best Seller</div>
+            <div id="sd5">Mobiles</div>
+            <div id="sd6">Today's Deals</div>
+            <div id="sd7">
+                <p>Prime</p>
+                <div id="sd7icon"><i class="ri-arrow-down-s-fill"></i></div>
+                
+            </div>
+            <div id="sd8">Customer Service</div>
+            <div id="sd9">Electronics</div>
+            <div id="sd10">New Releases</div>
+            <div id="sd11">Home & Kichen</div>
+            <div id="sd12">Fashion</div>
+            <div id="sd13">Amazon Pay</div>
+            <div id="sd14">Gift Ideas</div>
+            <div id="sd15">Computers</div>
+            <div id="sd16">Books</div>
+            <div id="sd17">Home Improvements</div>
+            <div id="sd18">Toys & Games</div>
+            <div id="sd19">Car & Motorbike</div>
+        </div>
+        <div id="main2">
+        <div id="page1">
+            <img src="https://m.media-amazon.com/images/I/61aURrton0L._SX3000_.jpg">
+        </div>
+        <div  id="cards1pack">
+        <div id="ca1" class="m2carda" style="margin-top: 14%;">
+            <h3 class="cph">Appliances for your home | Up<br> to 55% off</h3>
+            <div style="display: flex;" id="2imgcard1">
+                <img class="im1" src="https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/Appliances-QC-PC-186x116--B08RDL6H79._SY116_CB667322346_.jpg">
+                <img class="im2" src="https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/Appliances-QC-PC-186x116--B08345R1ZW._SY116_CB667322346_.jpg">
+
+            </div>
+            <div id="w1">
+                <div id="w1a">Air conditioners</div>
+                <div id="w1b">Refregerator</div>
+            </div>
+            <div style="display: flex;" id="2imgcard2">
+                <img class="im1" style="margin-top: 10px;" src="https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/Appliances-QC-PC-186x116--B07G5J5FYP._SY116_CB667322346_.jpg">
+                <img class="im2" style="margin-top: 10px;"  src="https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/186x116---wm._SY116_CB667322346_.jpg">
+
+            </div>
+            <div id="w1">
+                <div id="w1a">Microwave</div>
+                <div id="w1b" style="margin-left: 83px;">Wachine Machine</div>
+            </div>
+            <div id="sm" style="margin: 20px;margin-top: 50px;color: rgb(33, 113, 145);"> See more</div>
+
+
+        </div>
+        <div id="ca2" class="m2carda"style="margin-top: 14%;">
+            <h3 class="cph">Up to 60% off | Styles for men </h3>
+            <div style="display: flex;" id="2imgcard1">
+                <img class="im1" style="margin-top: 30px;" src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-1-186-116._SY116_CB636110853_.jpg">
+                <img class="im2" style="margin-top: 30px;" src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-2-186-116._SY116_CB636110853_.jpg">
+
+            </div>
+            <div id="w1">
+                <div id="w1a">Clothing</div>
+                <div id="w1b" style="margin-left: 83px;">Footware</div>
+            </div>
+            <div style="display: flex;" id="2imgcard2">
+                <img class="im1" style="margin-top: 10px;" src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-3-186-116._SY116_CB636110853_.jpg">
+                <img class="im2" style="margin-top: 10px;"  src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-4-186-116._SY116_CB636110853_.jpg">
+
+            </div>
+            <div id="w1">
+                <div id="w1a">Watches</div>
+                <div id="w1b" style="margin-left: 83px;">Bags and Wallet</div>
+            </div>
+            <div id="sm" style="margin: 20px;margin-top: 60px;color: rgb(33, 113, 145);"> See more</div>
+
+        </div>
+        <div id="ca3" class="m2carda"style="margin-top: 14%;">
+            <h3 class="cph">Starting ₹99 | All your home <br>improvement needs </h3>
+            <div style="display: flex;" id="2imgcard1">
+                <img class="im1" style="margin-top: 10px;" src="https://images-eu.ssl-images-amazon.com/images/G/31/img23/HI/SYED/ATF/QC-adapts_186x116_4._SY116_CB600489960_.jpg">
+                <img class="im2" style="margin-top: 10px;" src="https://images-eu.ssl-images-amazon.com/images/G/31/img23/HI/SYED/ATF/QC-adapts_186x116_3._SY116_CB600489960_.jpg">
+
+            </div>
+            <div id="w1">
+                <div id="w1a">Spin,Mop,Wipe & more</div>
+                <div id="w1b" style="margin-left: 8px;">Bath Hardware</div>
+            </div>
+            <div style="display: flex;" id="2imgcard2">
+                <img class="im1" style="margin-top: 10px;" src="https://images-eu.ssl-images-amazon.com/images/G/31/img23/HI/SYED/ATF/QC-adapts_186x116_7._SY116_CB600489960_.jpg">
+                <img class="im2" style="margin-top: 10px;"  src="https://images-eu.ssl-images-amazon.com/images/G/31/img23/HI/SYED/ATF/QC-adapts_186x116_5._SY116_CB600489960_.jpg">
+            </div>
+            <div id="w1">
+                <div id="w1a">Hammers & Screw <br>drivers</div>
+                <div id="w1b" style="margin-left: 30px;">Extention borde,plugs</div>
+            </div>
+            <div id="sm" style="margin: 20px;margin-top: 40px;color: rgb(33, 113, 145);"> See more</div>
+
+        
+        </div>
+        <div id="ca4" class="m2carda"style="margin-top: 14%;">
+            <h3 class="cph">Revamp your home in style </h3>
+            <div style="display: flex;" id="2imgcard1">
+                <img class="im1" style="margin-top: 40px;" src="https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2024/Gateway/BTFGW/PCQC/186x116_Home_furnishings_2._SY116_CB584596691_.jpg">
+                <img class="im2" style="margin-top: 40px;" src="https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2024/Gateway/BTFGW/PCQC/186x116_Home_lighting_2._SY116_CB584596691_.jpg">
+            </div>
+            <div id="w1">
+                <div id="w1a">Cushion Cover,<br>Bedsheets & More</div>
+                <div id="w1b" style="margin-left: 35px;">Lightning solutions</div>
+            </div>
+            <div style="display: flex;" id="2imgcard2">
+                <img class="im1" style="margin-top: 10px;" src="https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2024/Gateway/BTFGW/PCQC/186x116_Home_storage_1._SY116_CB584596691_.jpg">
+                <img class="im2" style="margin-top: 10px;"  src="https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2024/Gateway/BTFGW/PCQC/186x116_Home_decor_1._SY116_CB584596691_.jpg">
+            </div>
+            <div id="w1">
+                <div id="w1a">Home Storage <br>drivers</div>
+                <div id="w1b" style="margin-left: 30px;">Figurines,vases and more</div>
+            </div>
+            <div id="sm" style="margin: 20px;margin-top: 15px;color: rgb(33, 113, 145);"> See more</div>
+
+        
+        </div>
+    </div>
+    <div id="cards2pack">
+        <div class="m2cardb" style="margin-left: 11%;">
+            <h3 class="cph">Appliances for your home | Up<br> to 55% off</h3>
+            <div style="display: flex;" id="2imgcard1">
+                <img class="im1" src="https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/Appliances-QC-PC-186x116--B08RDL6H79._SY116_CB667322346_.jpg">
+                <img class="im2" src="https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/Appliances-QC-PC-186x116--B08345R1ZW._SY116_CB667322346_.jpg">
+
+            </div>
+            <div id="w1">
+                <div id="w1a">Air conditioners</div>
+                <div id="w1b">Refregerator</div>
+            </div>
+            <div style="display: flex;" id="2imgcard2">
+                <img class="im1" style="margin-top: 10px;" src="https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/Appliances-QC-PC-186x116--B07G5J5FYP._SY116_CB667322346_.jpg">
+                <img class="im2" style="margin-top: 10px;"  src="https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/186x116---wm._SY116_CB667322346_.jpg">
+
+            </div>
+            <div id="w1">
+                <div id="w1a">Microwave</div>
+                <div id="w1b" style="margin-left: 83px;">Wachine Machine</div>
+            </div>
+            <div id="sm" style="margin: 20px;margin-top: 50px;color: rgb(33, 113, 145);"> See more</div>
+
+
+        </div>
+        <div class="m2cardb">
+            <h3 class="cph">Up to 60% off | Styles for men </h3>
+            <div style="display: flex;" id="2imgcard1">
+                <img class="im1" style="margin-top: 30px;" src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-1-186-116._SY116_CB636110853_.jpg">
+                <img class="im2" style="margin-top: 30px;" src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-2-186-116._SY116_CB636110853_.jpg">
+
+            </div>
+            <div id="w1">
+                <div id="w1a">Clothing</div>
+                <div id="w1b" style="margin-left: 83px;">Footware</div>
+            </div>
+            <div style="display: flex;" id="2imgcard2">
+                <img class="im1" style="margin-top: 10px;" src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-3-186-116._SY116_CB636110853_.jpg">
+                <img class="im2" style="margin-top: 10px;"  src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-4-186-116._SY116_CB636110853_.jpg">
+
+            </div>
+            <div id="w1">
+                <div id="w1a">Watches</div>
+                <div id="w1b" style="margin-left: 83px;">Bags and Wallet</div>
+            </div>
+            <div id="sm" style="margin: 20px;margin-top: 50px;color: rgb(33, 113, 145);"> See more</div>
+
+        </div>
+        <div class="m2cardb">
+            <h3 class="cph">Starting ₹99 | All your home <br>improvement needs </h3>
+            <div style="display: flex;" id="2imgcard1">
+                <img class="im1" style="margin-top: 10px;" src="https://images-eu.ssl-images-amazon.com/images/G/31/img23/HI/SYED/ATF/QC-adapts_186x116_4._SY116_CB600489960_.jpg">
+                <img class="im2" style="margin-top: 10px;" src="https://images-eu.ssl-images-amazon.com/images/G/31/img23/HI/SYED/ATF/QC-adapts_186x116_3._SY116_CB600489960_.jpg">
+
+            </div>
+            <div id="w1">
+                <div id="w1a">Spin,Mop,Wipe & more</div>
+                <div id="w1b" style="margin-left: 8px;">Bath Hardware</div>
+            </div>
+            <div style="display: flex;" id="2imgcard2">
+                <img class="im1" style="margin-top: 10px;" src="https://images-eu.ssl-images-amazon.com/images/G/31/img23/HI/SYED/ATF/QC-adapts_186x116_7._SY116_CB600489960_.jpg">
+                <img class="im2" style="margin-top: 10px;"  src="https://images-eu.ssl-images-amazon.com/images/G/31/img23/HI/SYED/ATF/QC-adapts_186x116_5._SY116_CB600489960_.jpg">
+            </div>
+            <div id="w1">
+                <div id="w1a">Hammers & Screw <br>drivers</div>
+                <div id="w1b" style="margin-left: 30px;">Extention borde,plugs</div>
+            </div>
+            <div id="sm" style="margin: 20px;margin-top: 25px;color: rgb(33, 113, 145);"> See more</div>
+
+
+        </div>
+        <div class="m2cardb">
+            <h3 class="cph">Revamp your home in style </h3>
+            <div style="display: flex;" id="2imgcard1">
+                <img class="im1" style="margin-top: 40px;" src="https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2024/Gateway/BTFGW/PCQC/186x116_Home_furnishings_2._SY116_CB584596691_.jpg">
+                <img class="im2" style="margin-top: 40px;" src="https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2024/Gateway/BTFGW/PCQC/186x116_Home_lighting_2._SY116_CB584596691_.jpg">
+            </div>
+            <div id="w1">
+                <div id="w1a">Cushion Cover,<br>Bedsheets & More</div>
+                <div id="w1b" style="margin-left: 35px;">Lightning solutions</div>
+            </div>
+            <div style="display: flex;" id="2imgcard2">
+                <img class="im1" style="margin-top: 10px;" src="https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2024/Gateway/BTFGW/PCQC/186x116_Home_storage_1._SY116_CB584596691_.jpg">
+                <img class="im2" style="margin-top: 10px;"  src="https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2024/Gateway/BTFGW/PCQC/186x116_Home_decor_1._SY116_CB584596691_.jpg">
+            </div>
+            <div id="w1">
+                <div id="w1a">Home Storage <br>drivers</div>
+                <div id="w1b" style="margin-left: 30px;">Figurines,vases and more</div>
+            </div>
+            <div id="sm" style="margin: 20px;margin-top: 5px;color: rgb(33, 113, 145);"> See more</div>
+
+        
+        </div>
+
+        </div>
+    </div>
+        </div>
+        <div id="page2"></div>
+
+
+    </div>
+    
+</body>
+</html>
